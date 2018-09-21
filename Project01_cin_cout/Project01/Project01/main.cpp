@@ -36,7 +36,7 @@ int main() {
   
     
     //3.5
-    string figBug;
+    string fixBug;
     std::getline(std::cin, figBug);
     
     
